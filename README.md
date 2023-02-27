@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krishanu Dutta 
 - 👀 I’m interested in Data Scientist 
 - 🌱 I’m currently learning Python, ML, DL
-- 💞️ I’m looking to collaborate on Python Project 
+- 💞️ I’m looking to collaborate on Python,Machine Learning Projects 
 - 📫 How to reach me krishanudutta674@gmail.com
 
 <!---
